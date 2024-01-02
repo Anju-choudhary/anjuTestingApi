@@ -1,0 +1,71 @@
+[
+  {
+    "name": "iphone2",
+    "price": 1234,
+    "featured": true,
+    "company": "apple"
+  },
+
+  {
+    "name": "iphone10",
+    "price": 123490,
+    "featured": true,
+    "company": "apple"
+  },
+
+  {
+    "name": "lami",
+    "price": 123467,
+    "company": "mi"
+  },
+  {
+    "name": "samsung Phone",
+    "price": 123434,
+    "company": "samsung"
+  },
+  {
+    "name": "dell laptop",
+    "price": 1903434,
+    "company": "dell"
+  },
+  {
+    "name": "samsung 10 pro",
+    "price": 193434,
+    "company": "samsung"
+  },
+  {
+    "name": "Redme",
+    "price": 1893434,
+    "company": "mi"
+  },
+  {
+    "name": "iphone11",
+    "price": 1990434,
+    "company": "apple"
+  },
+  {
+    "name": "iwatch",
+    "price": 1983434,
+    "company": "apple"
+  },
+  {
+    "name": "iwatch",
+    "price": 1983434,
+    "company": "apple"
+  },
+  {
+    "name": "dell phone",
+    "price": 1983434,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi note",
+    "price": 13434,
+    "company": "mi"
+  },
+  {
+    "name": "samsung pad",
+    "price": 13434,
+    "company": "samsung"
+  }
+]
